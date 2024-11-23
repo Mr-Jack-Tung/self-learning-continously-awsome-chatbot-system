@@ -1,4 +1,4 @@
-# Self learning continously - an awsome chatbot system (pseodo-code)
+# Self learning continously - an Awsome chatbot system (Python Pseodo-code for Education)
 - Author: Mr.Jack & ChatGPT-4o-mini
 - Date: Sat 23 Nov 2024 11:12:23 GMT+7
 
