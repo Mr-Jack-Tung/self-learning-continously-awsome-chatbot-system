@@ -97,12 +97,29 @@ Chương trình này không chỉ là một công cụ học tập thú vị mà
 
   Câu Hỏi Dựa Trên Tò Mò: Hệ thống có thể tự động tạo ra các câu hỏi thú vị dựa trên sự tò mò, như "Tại sao AI lại quan trọng trong tương lai?" hay "Cách mạng hóa học máy học với việc phát hiện cảm xúc". Điều này không chỉ giúp mô hình học mà còn tạo ra các cuộc đối thoại đầy chất trí tuệ.
 
-- Automatic Emotion Detection: You’ll be amazed to see how the model can detect the emotions in your questions and provide an emotionally appropriate response. Is your question negative, neutral, or positive? The model adjusts its reply accordingly! / Phát Hiện Cảm Xúc Tự Động: Bạn có thể ngạc nhiên khi thấy mô hình có thể nhận diện được cảm xúc trong câu hỏi của bạn, từ đó đưa ra phản hồi có tình cảm phù hợp. Liệu câu hỏi của bạn là tiêu cực hay lạc quan? Mô hình sẽ phản hồi lại theo cách mà bạn không ngờ tới!
-- Expert-Style Responses: The model will respond to your questions in the style of an expert, offering advice and insights in a manner akin to a professional in the field. This makes every conversation feel more realistic and engaging. / Phản Hồi Như Một Chuyên Gia: Mô hình sẽ phản hồi câu hỏi của bạn bằng cách sử dụng phong cách chuyên gia, với cách diễn giải và lời khuyên giống như một người trong ngành. Điều này sẽ làm cho mỗi cuộc trao đổi không chỉ có tính học thuật mà còn cảm giác thực tế hơn bao giờ hết.
-- Self-Adjusting Learning Rate: The system can automatically adjust its learning rate, optimizing the training process to avoid wasting resources. The model will learn quickly in the early stages and slow down as it approaches optimal results, enhancing its accuracy. / Tính Năng Điều Chỉnh Tốc Độ Học: Hệ thống có khả năng tự động điều chỉnh tốc độ học của mình, từ đó tối ưu hóa quá trình huấn luyện để không lãng phí tài nguyên. Mô hình sẽ học nhanh ở giai đoạn đầu và chậm lại khi tiến gần đến kết quả tối ưu, giúp tăng độ chính xác.
-- Learning from Internet Data: When the model lacks sufficient data, it can fetch information from the web, such as from Wikipedia, to continue learning. This provides continuous improvement without direct human intervention. / Học Từ Dữ Liệu Internet: Khi mô hình không đủ dữ liệu, nó sẽ tự động lấy thông tin từ các nguồn trên Internet, chẳng hạn như Wikipedia, để học hỏi thêm. Điều này mang đến khả năng tự cải tiến liên tục mà không cần sự can thiệp trực tiếp của con người.
-- User Feedback Learning: The system records and responds to user feedback, creating a two-way interaction that allows the model to continuously refine its understanding and performance. You can actively participate in improving the model! / Tính Năng Học Từ Người Dùng: Hệ thống sẽ ghi nhận và phản hồi dựa trên phản hồi từ người dùng. Bạn có thể giúp hệ thống học và tinh chỉnh, tạo ra một mối quan hệ tương tác hai chiều, giúp mô hình ngày càng chính xác và thông minh hơn.
-- Diverse Training Data: Not only does the model learn from synthetic data, but it can also tap into famous datasets from Hugging Face, increasing the diversity and richness of the data it uses to improve itself. / Đa Dạng Dữ Liệu Huấn Luyện: Không chỉ học từ dữ liệu mẫu, mô hình còn có thể học từ các bộ dữ liệu nổi tiếng như Hugging Face datasets, làm tăng sự đa dạng và sự phong phú của nguồn dữ liệu mà hệ thống sử dụng để cải tiến.
+- Automatic Emotion Detection: You’ll be amazed to see how the model can detect the emotions in your questions and provide an emotionally appropriate response. Is your question negative, neutral, or positive? The model adjusts its reply accordingly!
+
+  Phát Hiện Cảm Xúc Tự Động: Bạn có thể ngạc nhiên khi thấy mô hình có thể nhận diện được cảm xúc trong câu hỏi của bạn, từ đó đưa ra phản hồi có tình cảm phù hợp. Liệu câu hỏi của bạn là tiêu cực hay lạc quan? Mô hình sẽ phản hồi lại theo cách mà bạn không ngờ tới!
+
+- Expert-Style Responses: The model will respond to your questions in the style of an expert, offering advice and insights in a manner akin to a professional in the field. This makes every conversation feel more realistic and engaging.
+
+  Phản Hồi Như Một Chuyên Gia: Mô hình sẽ phản hồi câu hỏi của bạn bằng cách sử dụng phong cách chuyên gia, với cách diễn giải và lời khuyên giống như một người trong ngành. Điều này sẽ làm cho mỗi cuộc trao đổi không chỉ có tính học thuật mà còn cảm giác thực tế hơn bao giờ hết.
+
+- Self-Adjusting Learning Rate: The system can automatically adjust its learning rate, optimizing the training process to avoid wasting resources. The model will learn quickly in the early stages and slow down as it approaches optimal results, enhancing its accuracy.
+
+  Tính Năng Điều Chỉnh Tốc Độ Học: Hệ thống có khả năng tự động điều chỉnh tốc độ học của mình, từ đó tối ưu hóa quá trình huấn luyện để không lãng phí tài nguyên. Mô hình sẽ học nhanh ở giai đoạn đầu và chậm lại khi tiến gần đến kết quả tối ưu, giúp tăng độ chính xác.
+
+- Learning from Internet Data: When the model lacks sufficient data, it can fetch information from the web, such as from Wikipedia, to continue learning. This provides continuous improvement without direct human intervention.
+
+  Học Từ Dữ Liệu Internet: Khi mô hình không đủ dữ liệu, nó sẽ tự động lấy thông tin từ các nguồn trên Internet, chẳng hạn như Wikipedia, để học hỏi thêm. Điều này mang đến khả năng tự cải tiến liên tục mà không cần sự can thiệp trực tiếp của con người.
+
+- User Feedback Learning: The system records and responds to user feedback, creating a two-way interaction that allows the model to continuously refine its understanding and performance. You can actively participate in improving the model!
+
+  Tính Năng Học Từ Người Dùng: Hệ thống sẽ ghi nhận và phản hồi dựa trên phản hồi từ người dùng. Bạn có thể giúp hệ thống học và tinh chỉnh, tạo ra một mối quan hệ tương tác hai chiều, giúp mô hình ngày càng chính xác và thông minh hơn.
+
+- Diverse Training Data: Not only does the model learn from synthetic data, but it can also tap into famous datasets from Hugging Face, increasing the diversity and richness of the data it uses to improve itself.
+
+  Đa Dạng Dữ Liệu Huấn Luyện: Không chỉ học từ dữ liệu mẫu, mô hình còn có thể học từ các bộ dữ liệu nổi tiếng như Hugging Face datasets, làm tăng sự đa dạng và sự phong phú của nguồn dữ liệu mà hệ thống sử dụng để cải tiến.
 
 ### Why Should You Try This Program? / Vì Sao Bạn Nên Thử Chương Trình Này?
 - Self-Learning from Data and Feedback: This program simulates the process of a model autonomously learning through data intake and feedback. / Tự động học từ dữ liệu và phản hồi: Chương trình mô phỏng quá trình học tự động thông qua việc tiếp nhận và phản hồi từ môi trường.
