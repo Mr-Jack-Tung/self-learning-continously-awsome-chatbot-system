@@ -1,0 +1,5 @@
+What is machine learning? -> Machine learning is a method of data analysis that automates analytical model building.
+What is artificial intelligence? -> Artificial intelligence (AI) refers to the simulation of human intelligence in machines.
+How does a neural network work? -> Neural networks are algorithms inspired by the human brain, designed to recognize patterns.
+What is deep learning? -> Deep learning is a subset of machine learning, using algorithms based on artificial neural networks.
+Explain the difference between AI and ML. -> AI is the broad concept of machines being able to carry out tasks in a smart way, whereas ML is a specific subset of AI that trains a machine how to learn from data.
