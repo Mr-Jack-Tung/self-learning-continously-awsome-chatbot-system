@@ -154,4 +154,6 @@ Now that you’ve learned about the system’s core capabilities, here are just 
 - Track and witness continuous improvement as the system adjusts its learning rate to optimize its performance.
 - Watch the model evolve and learn in real-time, just like a human would in an environment of constant learning and feedback.
 
+---
+
 "Experience the power of self-learning, explore machine learning algorithms in depth, and witness firsthand how artificial intelligence improves through interaction and feedback. It’s more than just a model; it’s a journey through the future of AI learning."
