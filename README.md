@@ -2,6 +2,12 @@
 - Author: Mr.Jack & ChatGPT-4o-mini
 - Date: Sat 23 Nov 2024 11:12:23 GMT+7
 
+```
+pip install -r requirements.txt
+
+python chat_app.py
+```
+
 ### Note: It's pseudo-code, but it still runs quite well. ^^ / Mã giả nhưng vẫn chạy rất ok nhé ^^
 
 ```
