@@ -2,6 +2,8 @@
 - Author: Mr.Jack & ChatGPT-4o-mini
 - Date: Sat 23 Nov 2024 11:12:23 GMT+7
 
+### Note: Mã giả nhưng vẫn chạy rất ok nhé ^^ / It's pseudo-code, but it still runs quite well. ^^
+
 ## Chương Trình Tự Học Hiện Đại - Một Hệ Thống Máy Học Tự Tiến Bộ / Modern Self-Learning System - A Machine Learning Model That Continuously Improves Itself
 Trong thế giới của trí tuệ nhân tạo (AI) và học máy (Machine Learning), khả năng của một mô hình học tự động từ dữ liệu và phản hồi của môi trường là yếu tố quan trọng giúp hệ thống ngày càng trở nên thông minh hơn. Chương trình Self-Learning System mà chúng tôi giới thiệu dưới đây là một mô phỏng đầy hứng thú về cơ chế tự học của một hệ thống máy học hiện đại, nơi mô hình không chỉ học từ dữ liệu có sẵn mà còn tự điều chỉnh và cải tiến qua từng vòng lặp huấn luyện.
 
