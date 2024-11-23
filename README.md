@@ -64,9 +64,9 @@ What makes the self-learning process so fascinating? It’s the combination of c
 
 ### Self-Adjusting Learning Rate / Tự Điều Chỉnh Tốc Độ Học
 
-Mỗi mô hình học máy đều có tốc độ học riêng, ảnh hưởng đến quá trình cải thiện và hội tụ kết quả. Chương trình của chúng tôi mô phỏng cơ chế điều chỉnh tốc độ học dựa trên kết quả của mỗi vòng huấn luyện. Khi mô hình học được nhiều hơn, tốc độ học sẽ giảm dần, giúp hệ thống ổn định và tiếp cận được các kết quả chính xác hơn. Đây là một trong những yếu tố quan trọng giúp quá trình học của hệ thống trở nên hiệu quả và bền vững.
-
 Every machine learning model has its own learning rate, which influences the training process and how quickly it converges on a solution. This program simulates how the model adjusts its learning rate based on the results of each training iteration. As the model learns more, the learning rate decreases, allowing for more stable convergence and more accurate results over time. This adjustment helps the system learn efficiently while maintaining long-term stability.
+
+Mỗi mô hình học máy đều có tốc độ học riêng, ảnh hưởng đến quá trình cải thiện và hội tụ kết quả. Chương trình của chúng tôi mô phỏng cơ chế điều chỉnh tốc độ học dựa trên kết quả của mỗi vòng huấn luyện. Khi mô hình học được nhiều hơn, tốc độ học sẽ giảm dần, giúp hệ thống ổn định và tiếp cận được các kết quả chính xác hơn. Đây là một trong những yếu tố quan trọng giúp quá trình học của hệ thống trở nên hiệu quả và bền vững.
 
 ### Learning from Diverse Data Sources / Học Từ Nguồn Dữ Liệu Đa Dạng
 
