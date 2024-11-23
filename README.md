@@ -156,4 +156,4 @@ Now that you’ve learned about the system’s core capabilities, here are just 
 
 ---
 
-"Experience the power of self-learning, explore machine learning algorithms in depth, and witness firsthand how artificial intelligence improves through interaction and feedback. It’s more than just a model; it’s a journey through the future of AI learning."
+## "Experience the power of self-learning, explore machine learning algorithms in depth, and witness firsthand how artificial intelligence improves through interaction and feedback. It’s more than just a model; it’s a journey through the future of AI learning."
