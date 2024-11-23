@@ -4,6 +4,46 @@
 
 ### Note: Mã giả nhưng vẫn chạy rất ok nhé ^^ / It's pseudo-code, but it still runs quite well. ^^
 
+```
+=====================> MODEL TRAINING IN PROGRESS <=====================
+
+Step 1: Question 5 - Initiating Inference...
+Model Response: Response to: Question 5
+
+Step 2: Generating Synthetic Data...
+Synthetic Data Generated: What is your name? -> I am a model created by OpenAI.
+Model weights updated based on synthetic data.
+
+Step 3: Fetching Data from the Internet...
+Error fetching data for Question 5.
+
+Step 4: Loading and Training with User's File Data...
+Data loaded from user_input_data.txt
+Training with data: What is machine learning? -> Machine learning is a method of data analysis that automates analytical model building.
+
+Training with data: What is artificial intelligence? -> Artificial intelligence (AI) refers to the simulation of human intelligence in machines.
+
+Training with data: How does a neural network work? -> Neural networks are algorithms inspired by the human brain, designed to recognize patterns.
+
+Training with data: What is deep learning? -> Deep learning is a subset of machine learning, using algorithms based on artificial neural networks.
+
+Training with data: Explain the difference between AI and ML. -> AI is the broad concept of machines being able to carry out tasks in a smart way, whereas ML is a specific subset of AI that trains a machine how to learn from data.
+
+
+Step 6: Collecting Human Feedback and Fine-tuning...
+Model weights updated based on human feedback.
+
+=======================================================================
+
+Iteration 5 completed in 1.36 seconds.
+Model saved to chat_model.pkl
+
+=====================> Training Completed <=====================
+Total training time: 19.86 seconds
+Final model weights after 5 iterations: [-1.07806938 -0.6963125  -0.47820032 -0.35004013 -0.78015636 -0.3724907
+ -0.70399809 -1.10565432 -0.63646988 -0.16571402]
+```
+
 ## Chương Trình Tự Học Hiện Đại - Một Hệ Thống Máy Học Tự Tiến Bộ / Modern Self-Learning System - A Machine Learning Model That Continuously Improves Itself
 Trong thế giới của trí tuệ nhân tạo (AI) và học máy (Machine Learning), khả năng của một mô hình học tự động từ dữ liệu và phản hồi của môi trường là yếu tố quan trọng giúp hệ thống ngày càng trở nên thông minh hơn. Chương trình Self-Learning System mà chúng tôi giới thiệu dưới đây là một mô phỏng đầy hứng thú về cơ chế tự học của một hệ thống máy học hiện đại, nơi mô hình không chỉ học từ dữ liệu có sẵn mà còn tự điều chỉnh và cải tiến qua từng vòng lặp huấn luyện.
 
