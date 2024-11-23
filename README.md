@@ -122,11 +122,25 @@ Chương trình này không chỉ là một công cụ học tập thú vị mà
   Đa Dạng Dữ Liệu Huấn Luyện: Không chỉ học từ dữ liệu mẫu, mô hình còn có thể học từ các bộ dữ liệu nổi tiếng như Hugging Face datasets, làm tăng sự đa dạng và sự phong phú của nguồn dữ liệu mà hệ thống sử dụng để cải tiến.
 
 ### Why Should You Try This Program? / Vì Sao Bạn Nên Thử Chương Trình Này?
-- Self-Learning from Data and Feedback: This program simulates the process of a model autonomously learning through data intake and feedback. / Tự động học từ dữ liệu và phản hồi: Chương trình mô phỏng quá trình học tự động thông qua việc tiếp nhận và phản hồi từ môi trường.
-- High Interactivity: The model learns from questions and feedback provided by users, offering an engaging and challenging learning experience. / Khả năng tương tác cao: Mô hình có thể học từ các câu hỏi và phản hồi từ người dùng, giúp tạo ra những trải nghiệm học tập thú vị và đầy thử thách.
-- Diverse Data Sources: Learn from synthetic data, online sources, and well-known datasets like those from Hugging Face. / Đa dạng nguồn dữ liệu: Học từ dữ liệu giả lập, dữ liệu từ Internet, và các bộ dữ liệu nổi tiếng từ Hugging Face.
-- Self-Adjustment: The system automatically adjusts the learning rate to improve the training process. / Điều chỉnh tự động: Tự điều chỉnh tốc độ học và cải thiện mô hình qua từng vòng lặp huấn luyện.
-- Gain Insight into Machine Learning: An ideal tool for those looking to understand machine learning algorithms, training models, and learning rate adjustment techniques. / Hiểu rõ cơ chế học máy: Là công cụ lý tưởng cho những ai muốn hiểu sâu về các cơ chế và thuật toán học máy hiện đại.
+- Self-Learning from Data and Feedback: This program simulates the process of a model autonomously learning through data intake and feedback.
+
+  Tự động học từ dữ liệu và phản hồi: Chương trình mô phỏng quá trình học tự động thông qua việc tiếp nhận và phản hồi từ môi trường.
+
+- High Interactivity: The model learns from questions and feedback provided by users, offering an engaging and challenging learning experience.
+
+  Khả năng tương tác cao: Mô hình có thể học từ các câu hỏi và phản hồi từ người dùng, giúp tạo ra những trải nghiệm học tập thú vị và đầy thử thách.
+
+- Diverse Data Sources: Learn from synthetic data, online sources, and well-known datasets like those from Hugging Face.
+
+  Đa dạng nguồn dữ liệu: Học từ dữ liệu giả lập, dữ liệu từ Internet, và các bộ dữ liệu nổi tiếng từ Hugging Face.
+
+- Self-Adjustment: The system automatically adjusts the learning rate to improve the training process.
+
+  Điều chỉnh tự động: Tự điều chỉnh tốc độ học và cải thiện mô hình qua từng vòng lặp huấn luyện.
+
+- Gain Insight into Machine Learning: An ideal tool for those looking to understand machine learning algorithms, training models, and learning rate adjustment techniques.
+
+  Hiểu rõ cơ chế học máy: Là công cụ lý tưởng cho những ai muốn hiểu sâu về các cơ chế và thuật toán học máy hiện đại.
 
 ### Start Exploring the Self-Learning Process Today! / Cùng Khám Phá Quá Trình Học Tự Động Ngay Hôm Nay!
 With this program, you can not only learn about machine learning but also get hands-on experience with self-learning mechanisms in action. It’s a great opportunity to develop research skills and explore new knowledge in AI in an interesting and approachable way.
